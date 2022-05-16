@@ -6,8 +6,11 @@ The problem in investing in stocks is there is no good stock all the time, and i
     So to determine if a stock is good or bad it becomes necessary to see the patterns based on which we can make a conclusion in regard to how a good stock behaves. Here the data on which we will analyze the patterns in the stock price which contains labelled data which means we have to use linear regression model which is a supervised machine learning model through which we will find the linear relationship between the dependent variable (close) and independent variable(open, low, high). The unit of these dependent and independent variables are in price.  
 
 **	DATA COLLECTION :-**
+
 •	WEBSITE URL : https://www.kaggle.com/dgawlik/nyse
+
 •	DATE : 20 July 2021
+
 •	DOWNLOADED FORMAT : The format of the dataset is a csv file.
 
 **	DATA EXPLANATION :-**
