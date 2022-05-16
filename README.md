@@ -9,8 +9,6 @@ The problem in investing in stocks is there is no good stock all the time, and i
 
 •	WEBSITE URL : https://www.kaggle.com/dgawlik/nyse
 
-•	DATE : 20 July 2021
-
 •	DOWNLOADED FORMAT : The format of the dataset is a csv file.
 
 **	DATA EXPLANATION :-**
