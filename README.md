@@ -1,4 +1,4 @@
-# Multiple-Linear-Regression
+# New York Stock Exchange Analysis
 
 **	CONTEXT :-**
 
